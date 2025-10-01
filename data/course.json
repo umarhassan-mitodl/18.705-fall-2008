@@ -1,0 +1,44 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "legacy_uid": "bba888da-2d5e-336f-dad1-219f9bad4ecb",
+  "instructors": {
+    "content": [
+      "d6c7d77b-a666-5662-7dab-9f1a20a016a9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "362f45b5-68d4-e1c1-891f-5a303714aa9d",
+    "website": "18-705-commutative-algebra-fall-2008"
+  },
+  "course_title": "Commutative Algebra",
+  "hide_download": true,
+  "course_description": "In this course students will learn about Noetherian rings and modules, Hilbert basis theorem, Cayley-Hamilton theorem, integral dependence, Noether normalization, the Nullstellensatz, localization, primary decomposition, DVRs, filtrations, length, Artin rings, Hilbert polynomials, tensor products, and dimension theory.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.705",
+  "course_image_thumbnail": {
+    "content": "34a59aa0-befa-16b2-fbc3-9d64debc2fd8",
+    "website": "18-705-commutative-algebra-fall-2008"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "a7908c46-1cb8-4fb3-974b-250fb5ac3670",
+  "site_short_id": "18.705-fall-2008",
+  "site_url_path": "courses/18-705-commutative-algebra-fall-2008",
+  "title": "Course Metadata"
+}
