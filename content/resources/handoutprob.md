@@ -4,8 +4,6 @@ description: Problem set on commutative algebra.
 file: /courses/18-705-commutative-algebra-fall-2008/90050ff8c2dece1c2aeccc250df96397_handoutprob.pdf
 file_size: 886442
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

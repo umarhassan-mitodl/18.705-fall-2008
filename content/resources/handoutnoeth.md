@@ -5,8 +5,6 @@ description: Handout providing proof of the refined version of the Noether norma
 file: /courses/18-705-commutative-algebra-fall-2008/87fd77a0eeca6d6baebbd028751a85fa_handoutnoeth.pdf
 file_size: 150375
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

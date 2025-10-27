@@ -22,7 +22,6 @@
     "website": "18-705-commutative-algebra-fall-2008"
   },
   "course_title": "Commutative Algebra",
-  "hide_download": true,
   "course_description": "In this course students will learn about Noetherian rings and modules, Hilbert basis theorem, Cayley-Hamilton theorem, integral dependence, Noether normalization, the Nullstellensatz, localization, primary decomposition, DVRs, filtrations, length, Artin rings, Hilbert polynomials, tensor products, and dimension theory.\n",
   "department_numbers": [
     "18"
@@ -33,7 +32,6 @@
     "content": "34a59aa0-befa-16b2-fbc3-9d64debc2fd8",
     "website": "18-705-commutative-algebra-fall-2008"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],
